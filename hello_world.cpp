@@ -1,9 +1,8 @@
 #include<iostream>
 
-using namespace std;
-
 int main() {
-	name = ${GITHIB_USERNAME};
-	cout << "Hello_World!" << @name << endl;
+	std::cout << "Hello_World!" << std::endl;
 	return 0;
 }
+
+//Commentarii
