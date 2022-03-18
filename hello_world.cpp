@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
-	cout << "Hello_World!" << endl;
+	name = ${GITHIB_USERNAME};
+	cout << "Hello_World!" << @name << endl;
 	return 0;
 }
