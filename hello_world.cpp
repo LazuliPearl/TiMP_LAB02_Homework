@@ -1,8 +1,10 @@
-#include<iostream>
+#include <iostream>
 
-int main() {
-	std::cout << "Hello_World!" << std::endl;
-	return 0;
+int
+main()
+{
+  std::cout << "Hello_World!" << std::endl;
+  return 0;
 }
 
-//Commentarii
+// Commentarii
